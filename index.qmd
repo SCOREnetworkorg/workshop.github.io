@@ -1,0 +1,98 @@
+---
+title: "SCORE Network Sports Analytics Education Workshop"
+format: html
+editor: visual
+---
+
+### What: Workshop to develop best practices in sports analytics education
+
+### When: January 29 & 30, 2027
+
+### Where: Charlotte, NC on the campus of the University of North Carolina at Charlotte
+
+### Who: Invited Experts in sports analytics, statistics and data science education 
+
+
+This SCORE Network workshop will generate guidelines/best practices for educational training in sports analytics and for building robust pipelines between academia and industry.  The workshop will engage leading experts from industry and academia to draft national guidelines around sports analytics in higher education. The in-person event, from Friday midday to Saturday midday, will be held in Charlotte, NC on the campus of UNC Charlotte.  With the rapid growth of this dynamic field and with new academic programs being developed, this is an auspicious time for this workshop.  
+
+## Tentative Schedule
+
+Pre-Workshop materials and readings for attendees
+
+### Friday January 29, 2027
+
+	
+
+Opening:
+
+11:30a:  Motivation, Framing of the Day, Goals, etc
+
+Noon :  SCORE Project Update:  Nick, Ivan, Rochelle  
+(interactive, not having talks for 90 min)
+Modules 
+lessons learned 
+best practices, 
+Assessment of building the network (Rochelle, Nick)
+Data sets, repos
+Include some exploration of site/repo 
+		Discussion of what else needs to be in module repository
+		
+12:30p - Working Lunch
+
+1:00p Background on Sports Analytics for Education - what’s going on in sports analytics education (large national initiative/projects):  	
+
+Overview
+Short talks by leading educators with three slides each 
+What does your academic program look like?
+What does your extracurriculars look like?
+What is unique about your program?
+Panel on best practices, what is working, what is not
+
+3:00p    SCORE Network Industry panel 
+	Bachelor’s vs master’s - how do you decide? Why?
+	Sports expertise vs technical expertise
+	AI
+	Technical classes vs project/communication classes
+	What is academia doing wrong?  Nothing, we’re perfect
+
+3:45p Coffee Break
+
+4:15p - Frame next exercise; put people in groups/tables
+
+4:30p
+	Group assigned Table discussion on what does a good major/program look like
+
+5:30p Report out to group and leadership committee
+
+6:30p Dinner
+ 
+Working dinner: Leadership group is collating, summarizing the notes and framing the next day
+	This includes table/section leaders
+
+Possible evening poster session with students (with wine/beer) about experience 
+
+### Saturday January 29, 2027
+
+8:00a Coffee/breakfast
+8:30a Framing the day with overview of the material from the day before; set-up the deeper dive 
+	
+Specifics of the classroom
+   Teaching report: Ron, Amanda, Scott
+   Report from Tim Chartier and Felesia Stukes (https://sites.google.com/view/sportsanalyticscurriculum/schedule)
+   SCORE Network 
+   Connect with industry
+   Review process, etc (portfolio for tenure)
+   What’s next  (research on the review process for educational materials)
+   Include some exploration of site/repo 
+
+10:00a Break
+
+10:30a Work period update from discussions from previous day
+   Working in groups (nice to have an industry person in each group)
+	Need to develop set of best practices/topics for GAISE like areas
+
+Noon - Depart
+
+1:00p Section Leaders Discussion
+
+4:00p Senior Leaders Depart
