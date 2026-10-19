@@ -6,7 +6,7 @@ about:
   template: jolla
 ---
 
-### What: Workshop to develop best practices in sports analytics education
+### What: Charlotte Workshop to develop best practices in sports analytics education
 
 ### When: January 29 & 30, 2027
 
