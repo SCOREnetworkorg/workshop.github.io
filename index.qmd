@@ -34,10 +34,15 @@ Opening:
 Noon :  SCORE Project Update:  Nick, Ivan, Rochelle  
 (interactive, not having talks for 90 min)
 - Modules 
+
 - lessons learned 
+
 - best practices, 
+
 - Assessment of building the network (Rochelle, Nick)
+
 - Data sets, repos
+
 - Include some exploration of site/repo 
 		Discussion of what else needs to be in module repository
 		
