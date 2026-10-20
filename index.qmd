@@ -33,12 +33,12 @@ Opening:
 
 Noon :  SCORE Project Update:  Nick, Ivan, Rochelle  
 (interactive, not having talks for 90 min)
-Modules 
-lessons learned 
-best practices, 
-Assessment of building the network (Rochelle, Nick)
-Data sets, repos
-Include some exploration of site/repo 
+- Modules 
+- lessons learned 
+- best practices, 
+- Assessment of building the network (Rochelle, Nick)
+- Data sets, repos
+- Include some exploration of site/repo 
 		Discussion of what else needs to be in module repository
 		
 12:30p - Working Lunch
@@ -47,16 +47,24 @@ Include some exploration of site/repo
 
 Overview
 Short talks by leading educators with three slides each 
+
 What does your academic program look like?
+
 What does your extracurriculars look like?
+
 What is unique about your program?
+
 Panel on best practices, what is working, what is not
 
 3:00p    SCORE Network Industry panel 
 	Bachelor’s vs master’s - how do you decide? Why?
+
 	Sports expertise vs technical expertise
+
 	AI
+	
 	Technical classes vs project/communication classes
+	
 	What is academia doing wrong?  Nothing, we’re perfect
 
 3:45p Coffee Break
@@ -81,13 +89,19 @@ Possible evening poster session with students (with wine/beer) about experience
 8:30a Framing the day with overview of the material from the day before; set-up the deeper dive 
 	
 Specifics of the classroom
-   Teaching report: Ron, Amanda, Scott
-   Report from Tim Chartier and Felesia Stukes (https://sites.google.com/view/sportsanalyticscurriculum/schedule)
-   SCORE Network 
-   Connect with industry
-   Review process, etc (portfolio for tenure)
-   What’s next  (research on the review process for educational materials)
-   Include some exploration of site/repo 
+-   Teaching report: Ron, Amanda, Scott
+
+-   Report from Tim Chartier and Felesia Stukes (https://sites.google.com/view/sportsanalyticscurriculum/schedule)
+
+-   SCORE Network 
+
+-   Connect with industry
+
+-   Review process, etc (portfolio for tenure)
+
+-   What’s next  (research on the review process for educational materials)
+
+-   Include some exploration of site/repo 
 
 10:00a Break
 
