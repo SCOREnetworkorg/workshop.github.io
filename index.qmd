@@ -52,27 +52,27 @@ Noon :  SCORE Project Update:  Nick, Ivan, Rochelle
 1:00p Background on Sports Analytics for Education - what’s going on in sports analytics education (large national initiative/projects):  	
 
 Overview
-Short talks by leading educators with three slides each 
+- Short talks by leading educators with three slides each 
 
-What does your academic program look like?
+- What does your academic program look like?
 
-What does your extracurriculars look like?
+- What does your extracurriculars look like?
 
-What is unique about your program?
+- What is unique about your program?
 
-Panel on best practices, what is working, what is not
+- Panel on best practices, what is working, what is not
 
 3:00p    SCORE Network Industry panel 
 
-	Bachelor’s vs master’s - how do you decide? Why?
+- Bachelor’s vs master’s - how do you decide? Why?
 
-	Sports expertise vs technical expertise
+-	Sports expertise vs technical expertise
 
-	AI
+-	AI
 	
-	Technical classes vs project/communication classes
+-	Technical classes vs project/communication classes
 	
-	What is academia doing wrong?  Nothing, we’re perfect
+-	What is academia doing wrong?  Nothing, we’re perfect
 
 3:45p Coffee Break
 
@@ -85,8 +85,7 @@ Panel on best practices, what is working, what is not
 
 6:30p Dinner
  
-Working dinner: Leadership group is collating, summarizing the notes and framing the next day
-	This includes table/section leaders
+Working dinner: Leadership group is collating, summarizing the notes and framing the next day.  This includes table/section leaders.
 
 Possible evening poster session with students (with wine/beer) about experience 
 
